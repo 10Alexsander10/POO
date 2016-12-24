@@ -1,0 +1,71 @@
+1. Complete as lacunas em cada uma das frases seguintes: 
+a. A empresa criadora da linguagem Java foi a R= SUN.
+b. R= STATIC trata-se de um qualificador que indica que o método pertence à classe. 
+c. Toda classe executável deve, obrigatoriamente, possuir o método R= MAIN.
+d. PUBLIC é um qualificador que faz com que uma classe seja visível a outras classes.
+
+2. A palavra reservada em Java utilizada para definir o nome da classe é: 
+a. public 
+b. void 
+c. main 
+d. class
+R = " d "
+
+3.Um dos principais motivos que contribuiu para o desenvolvimento da linguagem Java foi: 
+a. O nome da linguagem. 
+b. O desenvolvimento da Internet. 
+c. A linguagem ser relativamente simples. 
+d. O desempenho da linguagem em termos de velocidade.
+R = "b"
+
+4. Por que a utilização de Java em multiplataforma é muito importante para os programadores? 
+R = pois possibilita que um mesmo programa seja executado em diversas plataformas.
+Um programa escrito na linguagem Java é compilado e gera um arquivo de bytecodes (com extensão .class), que pode ser executado onde quer que a plataforma Java esteja presente, em qualquer sistema operacional subjacente. 
+Em outras palavras, o mesmo programa pode ser executado em qualquer sistema operacional que execute a plataforma Java.
+
+5. Qual das características seguintes não diz respeito à linguagem Java?
+a. Pode ser executada em qualquer computador, independentemente de existir uma máquina virtual Java instalada. 
+b. É uma linguagem que pode ser usada para o desenvolvimento de aplicações voltadas à web. 
+c. É uma linguagem com suporte à orientação a objetos. 
+d. É uma linguagem com um bom nível de segurança. 
+R = "a"
+
+6. A sequência de desenvolvimento de uma classe em Java é: 
+a. Compilação, digitação e execução. 
+b. Digitação, execução e compilação. 
+c. Digitação, compilação e execução. 
+d. Digitação e execução. 
+R = "c"
+
+7. Cite um nome de linguagem que pode ser executada a partir da máquina virtual Java. 
+R =  Groovy
+
+8. Com base no Exemplo 1.1 apresentado neste capítulo, crie uma nova classe que mostre na tela as mensagens “Ensino didático Java 8” e “Uma maneira fácil e gostosa de aprender”. 
+R = 
+package cap01;
+public class livro {
+
+         public static void main(String[] args){
+
+             System.out.println("Ensino Didático Java 8");
+
+             System.out.println("Uma maneira fácil e gostosa de aprender");
+          }
+
+     }
+
+9. Qual é a função do compilador Java? 
+R = É responsavel tradução do programa escrito em Java 
+para uma linguagem intermediária chamada Java bytecodes,  
+que é decifrado por um interpretador Java.
+
+10. Assinale a alternativa correta em relação ao JDK. 
+a. JDK é uma ferramenta de desenvolvimento e serve apenas para testar a execução de aplicações em Java. 
+b. É uma ferramenta de desenvolvimento e serve apenas para compilar classes feitas em Java. 
+c. É um kit de ferramentas e serve para proporcionar uma interface amigável com o usuário. 
+d. É um kit de ferramentas e serve para o desenvolvimento completo de aplicações em Java.
+R = "d"
+
+
+
+
